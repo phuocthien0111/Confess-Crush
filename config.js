@@ -1,20 +1,17 @@
 const CONFIG = {
-    titleWeb: "Tiêu đề web",
-    introTitle: 'Tên người yêu bạn',
-    introDesc: `Trái đất vốn lạ thường
-    Mà sao em cứ đi nhầm đường
-    Lạc vào tim anh lẻ loi
-    Đằng sau chữ yêu đây là thương`,
-    btnIntro: '^^HiHi^^',
-    title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 🥰',
-    desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
-    btnYes: 'Thích lắm <33',
-    btnNo: 'Không nha :3',
-    question: 'Trên thế giới hơn 7 tỉ người mà sao bạn lại yêu mình <3',
-    btnReply: 'Gửi cho bạn <3',
-    reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
-    mess: 'Mình biết mà 🥰. Yêu bạn nhiều nhiều 😘😘',
-    messDesc: 'Tối nay 7h, mình qua đón đi chơi nha.',
-    btnAccept: 'Okiiiii lun <3',
-    messLink: 'https://github.com/zukahai/Confess-Crush' //link mess của các bạn. VD: https://www.facebook.com/messages/t/100014188333536
+    titleWeb: "Chúc Mừng Sinh Nhật Em!!",
+    introTitle: 'Phượng Quyên ơi',
+    introDesc: `Anh yêu em nhiều lắm`,
+    btnIntro: '^^19-04-2022^^',
+    title: 'Chúc em tuổi mới ngày càng xinh đẹp giỏi giang và yêu anh nhiều hơn 🥰',
+    desc: 'Hay anh tổ thức tiệc sinh nhật cho em nha?? ',
+    btnYes: 'Hông chịu đâu',
+    btnNo: 'Dạ ',
+    question: 'Em có buồn hôg ta??',
+    btnReply: 'Send',
+    reply: 'Buồn nhiều lắm <33333333',
+    mess: 'Anh hông có quà sinh nhật đâu',
+    messDesc: 'Nhưng mà chờ điện thoại anh shipper nha',
+    btnAccept: 'Yêu anh',
+    messLink: 'https://www.facebook.com/profile.php?id=100075356868613' //link mess của các bạn. VD: https://www.facebook.com/messages/t/100014188333536
 }
